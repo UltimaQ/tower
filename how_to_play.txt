@@ -1,0 +1,11 @@
+Currently in this rendition there is no way to win
+or a way to place down turrets, this is an older build
+that i had to force to build.
+
+The ships randomly spawn and will follow the path to
+the end point.
+
+Being honest, after the assignment was finished I went back
+and finished it up with a friend just to satisfy myself. 
+This nor the uploaded version shows that. 
+I apologize but this is all that I have. 
